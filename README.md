@@ -36,16 +36,16 @@ To use this program, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/roman-to-integer.git
+   git clone https://github.com/georgiassc/roman-to-inter.git
    cd roman-to-integer
    ```
 2. Compile the program:
    ```sh
-   gcc main.c -o roman_to_integer
+   gcc main.c -o roman_converter
    ```
 3. Run the program:
    ```sh
-   ./roman_to_integer ROMAN_NUMERAL
+   ./roman_converter ROMAN_NUMERAL
    ```
    Replace `ROMAN_NUMERAL` with the desired Roman numeral.
 
