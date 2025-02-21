@@ -2,6 +2,9 @@
 
 This repository contains a C program that converts Roman numerals to integers. The code uses helper functions to display characters and strings in the terminal and processes the conversion of a Roman numeral passed as an argument.
 
+![image](https://github.com/user-attachments/assets/2db98989-df46-462c-b374-3512594b59a6)
+
+
 ## Index
 
 1. [Roman Numerals](#roman-numerals)
