@@ -39,12 +39,6 @@ To use this program, follow these steps:
    git clone https://github.com/georgiassc/roman-to-inter.git](https://github.com/georgiassc/Roman-to-Inter.git)
    cd roman-to-inter
    ```
-   or
-    ```sh
-   git clone https://github.com/georgiassc/roman-to-inter.git](https://github.com/georgiassc/Roman-to-Inter.git)
-   cd roman-to-inter
-   ```
-   
 3. Compile the program:
    ```sh
    gcc main.c -o roman_converter
