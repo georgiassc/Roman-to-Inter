@@ -31,22 +31,23 @@ The program follows standard Roman numeral rules:
 - C can be used before D (500) and M (1000) to form CD (400) and CM (900).
 - All other symbols are added directly.
 
-## Compilation and Execution
+## Usage
+To use this program, follow these steps:
 
-### Compile the program
-```sh
-gcc -o roman_converter main.c
-```
-
-### Run the program
-```sh
-./roman_converter "XIV"
-```
-
-### Example Output
-```sh
-14
-```
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/roman-to-integer.git
+   cd roman-to-integer
+   ```
+2. Compile the program:
+   ```sh
+   gcc main.c -o roman_to_integer
+   ```
+3. Run the program:
+   ```sh
+   ./roman_to_integer ROMAN_NUMERAL
+   ```
+   Replace `ROMAN_NUMERAL` with the desired Roman numeral.
 
 ## Additional Examples
 
