@@ -37,7 +37,10 @@ To use this program, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/georgiassc/roman-to-inter.git](https://github.com/georgiassc/Roman-to-Inter.git)
-   cd roman-to-inter
+   ```
+2. Go to the repository:
+   ```sh
+   cd Roman-to-Inter
    ```
 3. Compile the program:
    ```sh
