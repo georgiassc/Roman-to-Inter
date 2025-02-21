@@ -2,6 +2,21 @@
 
 This repository contains a C program that converts Roman numerals to integers. The code uses helper functions to display characters and strings in the terminal and processes the conversion of a Roman numeral passed as an argument.
 
+## Index
+
+1. [Roman Numerals](#roman-numerals)
+2. [Conversion Rules Implemented](#conversion-rules-implemented)
+3. [Usage](#usage)
+4. [Additional Examples](#additional-examples)
+   - [Example 1](#example-1)
+   - [Example 2](#example-2)
+   - [Example 3](#example-3)
+5. [Code Structure](#code-structure)
+6. [Error Handling](#error-handling)
+7. [License](#license)
+8. [Technologies Used](#technologies-used)
+9. [How to Contribute](#how-to-contribute)
+
 ## Roman Numerals
 
 Roman numerals are represented by seven different symbols:
