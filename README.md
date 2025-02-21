@@ -36,14 +36,20 @@ To use this program, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/georgiassc/roman-to-inter.git
-   cd roman-to-integer
+   git clone https://github.com/georgiassc/roman-to-inter.git](https://github.com/georgiassc/Roman-to-Inter.git)
+   cd roman-to-inter
    ```
-2. Compile the program:
+   or
+    ```sh
+   git clone https://github.com/georgiassc/roman-to-inter.git](https://github.com/georgiassc/Roman-to-Inter.git)
+   cd roman-to-inter
+   ```
+   
+3. Compile the program:
    ```sh
    gcc main.c -o roman_converter
    ```
-3. Run the program:
+4. Run the program:
    ```sh
    ./roman_converter ROMAN_NUMERAL
    ```
